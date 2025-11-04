@@ -38,5 +38,5 @@ A API é **gratuita**, **sem autenticação** e **sem restrições de CORS**.
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/seu-usuario/ .git
+git clone https://github.com/VIC18eu/studio-ghibli-films.git
 cd studio-ghibli-films
